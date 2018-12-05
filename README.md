@@ -1,6 +1,6 @@
 
 
-## Multilicar Console App
+## Multiplicar Console App
 
 Esta es una aplicación para generar archivos de tabals de multiplicar
 
